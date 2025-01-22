@@ -4,7 +4,7 @@ GitSeek is a simple and efficient GitHub repository search application built usi
 
 ## 🚀 Features
 
-- 🔍 **Search GitHub Repositories** - Fetch and display repositories using the GitHub Search API.
+- 🔍 **Search GitHub Repositories** - Fetch and display repositories using the GitHub Search API (limit set for 1000 results because of git api restrictions).
 - 📄 **Pagination** - Navigate through large search results efficiently.
 - ⚡ **Debounced Search Input** - Prevents excessive API calls with optimized query execution.
 - 🔥 **Interactive UI** - Uses Tailwind CSS for a modern and responsive design.
